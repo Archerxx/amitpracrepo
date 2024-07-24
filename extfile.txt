@@ -1,8 +1,19 @@
-create external data source  ds
+rgregergregregregrgcreate external data source  ds
+ergdgdfgfe
 with (  type = "",
-      credential= "",
-	   location = ""
-	 )
+ 
+dgfdgdfs
+ sdfgs
+
+sdfgsdfgsdfgfdsg
+
+
+    credential= "",
+
+
+
+:wq
+	   location = "" )
 
 create external file format  fm
 with (
